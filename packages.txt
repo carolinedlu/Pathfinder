@@ -1,7 +1,5 @@
 r-base
 r-base-dev
-r-cran-ggplot2
-r-cran-cowplot
 r-cran-data.table
 r-cran-tidyverse
 r-cran-Rcpp
