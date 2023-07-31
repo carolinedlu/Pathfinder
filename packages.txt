@@ -2,4 +2,5 @@ r-base
 r-base-dev
 r-cran-data.table
 r-cran-tidyverse
-
+r-cran-cpp
+r-blaster
