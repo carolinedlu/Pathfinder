@@ -7,7 +7,6 @@ requests==2.31.0
 rpy2==3.5.13
 streamlit==1.25.0
 openai
-sys
 io
 annotated_text==4.0.0
 blaster==0.6.0
