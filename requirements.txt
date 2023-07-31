@@ -11,3 +11,4 @@ openai
 sys
 io
 annotated_text==4.0.0
+blaster==0.6.0
